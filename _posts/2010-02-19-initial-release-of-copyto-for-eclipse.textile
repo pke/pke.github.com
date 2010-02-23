@@ -1,3 +1,6 @@
+---
+layout: post
+---
 {toc}
 
 h1. Introduction
