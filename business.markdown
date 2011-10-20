@@ -14,7 +14,7 @@ Logistics
 PickByVoice{#pbv}
 -----------
 
-Implementation of various different picking applications using topsystem topSpeech(tm) Lydia(R)
+Implementation of various different picking applications using [topSPEECH-Lydia&reg;](http://topsystem.de/en/logistics/topspeech.htm)
 * C++ application for WindowsCE devices
 * Custom UI
 
@@ -29,10 +29,10 @@ SAP Connector
 Picking Management
 --------------------
 
-Allows to manage the work-flow of [PickByVoice](#pbv) applications and [Vortex(r) devices](http://www.topsystem.de/en/voxter).
+Allows to manage the work-flow of [PickByVoice](#pbv) applications and [VOXter&reg; devices](http://topsystem.de/en/logistics/voxter.htm).
 
-* [Eclipse RCP](http://www.eclipse.org) based client application
-* Microsoft ActiveSync integration with [JNA](http://www.jna.org)
+* [Eclipse RCP](http://wiki.eclipse.org/index.php/Rich_Client_Platform) based client application
+* Microsoft ActiveSync integration with [JNA](https://github.com/twall/jna)
 * Flexible and fast view filtering
 * Various pluggable export formats
 * Customizable branding
@@ -44,7 +44,7 @@ CheckByVoice
 Voice driven, mobile car inspection solution.
 
 * C++ WindowsCE application	
-* previously implemented in JavaScript running inside InternetExplorer with native extensions for voice recognition
+* previously implemented in JavaScript running inside Internet Explorer with native extensions for voice recognition
 * [OSGi][osgi] like architecture (composed of different bundles such as core, ui, voice, net)
 * Custom, Owner-Drawn UI
 * Customer signatures
