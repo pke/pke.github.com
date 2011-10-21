@@ -1,5 +1,5 @@
 ---
-title: About
+title: Games
 layout: default
 ---
 
@@ -52,6 +52,10 @@ Camgoo
 
 EyeToy clone for PC.
 
+![](http://ecx.images-amazon.com/images/I/5104R8EFW9L.jpg)
+![](http://ecx.images-amazon.com/images/I/51WNN330C3L.jpg)
+![](http://ecx.images-amazon.com/images/I/51VRKAPBHML.jpg)
+
 * C++ Windows application
 * Fast OpenGL fullscreen and windowed rendering using modified [Cipher Engine][cipher]
 * Supports any connected video device
@@ -64,6 +68,9 @@ WOK WM
 
 Casual 3D ice channel racing game for famous German late-night TV show.
 
+![](http://ecx.images-amazon.com/images/I/51CDAGYP1GL.jpg)
+![](http://ecx.images-amazon.com/images/I/5194DA0P87L.jpg)
+
 * C++ Windows application
 * Fast OpenGL fullscreen and windowed rendering using [Cipher Engine][cipher]
 * Internet high score
@@ -73,11 +80,16 @@ Rimini Rüpel {#rr}
 
 Casual 2D cartoon-style game.
 
+![](http://ecx.images-amazon.com/images/I/51NARP6R3GL.jpg)
+
 * [SDL](http://www.sdl.org) powered
 * Extensible game framework
 * FLC based animations
 
 Malle Kalle
 ===========
+
+![](http://ecx.images-amazon.com/images/I/61DWW4H30WL.jpg)
+![](http://ecx.images-amazon.com/images/I/510FZ2Q4CZL.jpg)
 
 Rip-off [Rimini Rüpel](#rr) that just changed the visual and audio assets.

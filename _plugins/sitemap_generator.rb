@@ -4,8 +4,8 @@
 #
 # How To Use: 
 #   1.) Copy source file into your _plugins folder within your Jekyll project.
-#   2.) Change MY_URL to reflect your domain name.
-#   3.) Change SITEMAP_FILE_NAME if you want your sitemap to be called something
+#   2.) Set url or sitemap: url to reflect your domain name.
+#   3.) Set sitemap: filename if you want your sitemap to be called something
 #       other than sitemap.xml.
 #   4.) Change the PAGES_INCLUDE_POSTS list to include any pages that are looping 
 #       through your posts (e.g. "index.html", "archive.html", etc.). This will 

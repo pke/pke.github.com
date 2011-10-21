@@ -1,2 +1,5 @@
+auto: true
 pygments: false
 url: "http://pke.github.com"
+
+exclude: [ 'Rakefile' ]
