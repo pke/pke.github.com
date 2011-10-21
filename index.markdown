@@ -11,7 +11,7 @@ startedProfessionalProgramming = 12.years.ago
 
 ```
 const char* Languages[] = {
-  "C", "C++", "Ruby", "JavaScript"	
+  "C", "C++", "Java", "Ruby", "JavaScript"	
 };
 ```
 
