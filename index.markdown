@@ -4,7 +4,7 @@ layout: default
 ---
 
 ```
-startedProfessionalProgramming = {% since 1999 %}.years.ago
+startedProfessionalProgramming = 12.years.ago
 ```
 
 - - -
