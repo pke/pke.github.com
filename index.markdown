@@ -22,5 +22,6 @@ Mostly on Windows, Windows CE
 * [Serious business](business.html) ;)
 * [Games](games.html)
 * [private hobby efforts](http://github.com/pke)
+* [Blog](http://philondev.blogspot.com/)
 
 [Write me!](mailto:phil.kursawe@gmail.com)
