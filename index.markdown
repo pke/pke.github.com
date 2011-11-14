@@ -23,5 +23,6 @@ Mostly on Windows, Windows CE
 * [Games](games.html)
 * [private hobby efforts](http://github.com/pke)
 * [Blog](http://philondev.blogspot.com/)
+* [Jobs](doojobs.html)
 
 [Write me!](mailto:phil.kursawe@gmail.com)
