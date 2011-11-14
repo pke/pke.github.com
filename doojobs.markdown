@@ -1,7 +1,7 @@
 "Normale" Variante
 =================
 
-kommt noch...
+kommt später...
 
 
 "Nerd" Variante
