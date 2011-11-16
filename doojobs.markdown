@@ -1,8 +1,15 @@
 "Normale" Variante
 =================
 
-kommt später...
+Wir lieben C++ und Windows.
+Windows ist auf über 90% der PCs installiert und C++ ist die effizienteste Sprache für native Windows Anwendungen.
 
+Unsere Kombination von TDD mit googletest, code-review und "git" gibt uns Flexibilität bei der Entwicklung, beim Testen und beim regelmäßigen Refactoring.
+Die Windows Shell ist der Arbeitsmittelpunkt für viele Windows Benutzer und und wir werden "doo" darin integrieren.
+
+Und wenn "Metro" für Dich nicht nur ein anderes Wort fuer "U-Bahn" ist und Dich neue Symbole wie ^ in C++ nicht abschrecken dann bewirb Dich!
+
+Wir arbeiten mit den neusten Microsoft Entwicklungstools und haben vollen Zugriff auf MSDN.
 
 "Nerd" Variante
 ===============
@@ -40,3 +47,7 @@ Wenn "Metro" für Dich nicht nur ein anderes Wort fuer "U-Bahn" ist und Dich neu
         bool doCodeReview() const { return true; }
       };
     }
+    
+    git add you
+    git commit -m "New employee"
+    git push doo you
