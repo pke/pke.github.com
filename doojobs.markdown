@@ -6,6 +6,7 @@ Windows ist auf über 90% der PCs installiert und C++ ist die effizienteste Spra
 
 Unsere Kombination von TDD mit googletest, code-review und "git" gibt uns Flexibilität bei der Entwicklung, beim Testen und beim regelmäßigen Refactoring.
 Die Windows Shell ist der Arbeitsmittelpunkt für viele Windows Benutzer und und wir werden "doo" darin integrieren.
+Dabei benutzen wir aktuelle Technologien wie ATL/WTL, QT 4.7/5 und natürlich *kein* MFC.
 
 Und wenn "Metro" für Dich nicht nur ein anderes Wort fuer "U-Bahn" ist und Dich neue Symbole wie ^ in C++ nicht abschrecken dann bewirb Dich!
 
