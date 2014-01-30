@@ -4,14 +4,14 @@ layout: default
 ---
 
 ```
-startedProfessionalProgramming = 12.years.ago
+startedProfessionalProgramming = 15.years.ago
 ```
 
 - - -
 
 ```
 const char* Languages[] = {
-  "C", "C++", "Java", "Ruby", "JavaScript"	
+  "C", "C++", "Java", "Ruby", "JavaScript"
 };
 ```
 
