@@ -11,7 +11,7 @@ startedProfessionalProgramming = 15.years.ago
 
 ```
 const char* Languages[] = {
-  "C", "C++", "Java", "Ruby", "JavaScript"
+  "C", "C++", "Java", "Ruby", "JavaScript", "CoffeeScript"
 };
 ```
 
@@ -19,9 +19,10 @@ const char* Languages[] = {
 
 Mostly on Windows, Windows CE
 
+* [CV](cv.html)
 * [Serious business](business.html) ;)
 * [Games](games.html)
-* [private hobby efforts](http://github.com/pke)
-* [Blog](http://philondev.blogspot.com/)
+* [github repo](http://github.com/pke)
+* [(old) Java Blog](http://philondev.blogspot.com/)
 
 [Write me!](mailto:phil.kursawe@gmail.com)
