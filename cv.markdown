@@ -144,14 +144,16 @@ We had a basic running game ready when the company went bankrupt due to another 
 
 ### BlueByte GmbH, Muelheim/Ruhr, Apr 2000 - Mar 2001
 
-#### Data-Wizard
+#### The Settlers IV Game (C++)
+
+##### Data-Wizard
  * Converting raw image data into sprite formats
  * Specing game data in various editors, compiling final game data set
 
-#### Tools Programmer (C++)
+##### Tools Programmer (C++)
  * AlienBrain Asset Manager IE/COM based plugins
  * Executable map/savegame stub that displayed the map/savegame screenshot when started in less than 10kb
 
-#### Release Build Engineer
+##### Release Build Engineer
  * Preparing CD masters and Gold Master for production
  * Creation of a custom InstallShield installer with game themed UI and background music during installation
