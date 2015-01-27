@@ -4,13 +4,13 @@ layout: default
 ---
 
 ```
-startedProfessionalProgramming = 15.years.ago
+startedProfessionalProgramming = 16.years.ago
 ```
 
 - - -
 
 ```
-const char* Languages[] = {
+const char* languages[] = {
   "C", "C++", "Java", "Ruby", "JavaScript", "CoffeeScript"
 };
 ```
@@ -19,8 +19,8 @@ const char* Languages[] = {
 
 Mostly on Windows, Windows CE
 
-* [CV](cv.html)
-* [Serious business](business.html) ;)
+* [Resume](resume.html)
+* [Applications](business.html)
 * [Games](games.html)
 * [github repo](http://github.com/pke)
 * [(old) Java Blog](http://philondev.blogspot.com/)
