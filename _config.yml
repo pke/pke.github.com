@@ -1,6 +1,16 @@
-auto: true
-pygments: false
+baseurl:
+pygments: true
 markdown: kramdown
-url: "http://pke.github.com"
-
-exclude: [ 'Rakefile' ]
+permalink: /:categories/:title
+excerpt_separator: "\n\n"
+exclude: [ 'Rakefile', "node_modules" ]
+title: pke site
+encoding: utf-8
+show_drafts: true
+unpublished: true
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
