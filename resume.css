@@ -40,6 +40,7 @@ body { font-family: Georgia; color: #444; }
 h2 { font-size: 152% }
 h3, h4 { font-size: 122%; }
 h1, h2, h3, h4 { color: #333; }
+h5 { margin-bottom: 1em; }
 p { font-size: 100%; line-height: 18px; padding-right: 3em; margin-bottom: 1em; }
 a { color: #990003 }
 a:hover { text-decoration: none; }
@@ -57,14 +58,19 @@ p.enlarge span { color: #000 }
 a#pdf { display: block; float: left; background: #666; color: white; padding: 6px 50px 6px 12px; margin-bottom: 6px; text-decoration: none;  }
 a#pdf:hover { background: #222; }
 
-h3 img#cvqr { display: none; width: 64px; height: 64px; }
+img.cvqr { display: none; } 
+h3 img.cvqr { width: 64px; height: 64px; }
+h2 img.cvqr { width: 20px; height: 20px; vertical-align: bottom; }
 
 @media print {
   h3 a#pdf {
     display: none !important;
   }
-  h3 img#cvqr {
+  h3 img.cvqr {
     display: block;
+  }
+  h2 img.cvqr {
+    display: inline;
   }
 }
 
@@ -73,7 +79,6 @@ h3 img#cvqr { display: none; width: 64px; height: 64px; }
 .job p { margin: 0.75em 0 3em 0; }
 
 .last { border: none; }
-.skills-list {  }
 .skills-list ul { margin: 0; }
 .skills-list li { margin: 3px 0; padding: 3px 0; }
 .skills-list li span { font-size: 152%; display: block; margin-bottom: -2px; padding: 0 }
