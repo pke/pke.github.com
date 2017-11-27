@@ -4,20 +4,20 @@ layout: default
 ---
 
 ```
-startedProfessionalProgramming = 16.years.ago
+startedProfessionalProgramming = 18.years.ago
 ```
 
 - - -
 
 ```
 const char* languages[] = {
-  "C", "C++", "Java", "Ruby", "JavaScript", "CoffeeScript"
+  "C", "C++", "Java", "Ruby", "JavaScript", "CoffeeScript", "TypeScript"
 };
 ```
 
 - - - 
 
-Mostly on Windows, Windows CE
+Formerly mostly on Windows, Windows CE. Now universally on the Web.
 
 * [Resume](resume.html)
 * [Applications](business.html)
