@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pkursawe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pke.github.io
+  * I am pkursawe (https://keybase.io/pkursawe) on keybase.
+  * I have a public key ASD3_zyCuygsksVVYfXESLSrcS1f29eDjiDzbmxBU2vGdwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010199c979e81f74f5f0fe05122c63591c25fbd8ba0ea77366c878296d355cf193950a",
+      "host": "keybase.io",
+      "kid": "0120f7ff3c82bb282c92c55561f5c448b4ab712d5fdbd7838e20f36e6c41536bc6770a",
+      "uid": "07be9fde198b735279e116867c1f0d19",
+      "username": "pkursawe"
+    },
+    "merkle_root": {
+      "ctime": 1570735706,
+      "hash": "ae2571ec4816163fa3707dd1f544e04e30655fdff280bfde3cf374ab990bca1f7902e97b3b3fb56bad92a4776a0e81fb956107daa0e3c9515af7bf2e6025c427",
+      "hash_meta": "2e05c99347d6f9556b9106b6ea33a2a3539502645a864f6a35b3a02d05df44fb",
+      "seqno": 7977365
+    },
+    "service": {
+      "entropy": "nd8hQ42tqiM8V+CQX9q7DOds",
+      "hostname": "pke.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1570735721,
+  "expire_in": 504576000,
+  "prev": "557a1e0f0a0167b62b290f76c2716b9ef23b92f10f3b8c4a0befb0c9766b5c06",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9/88grsoLJLFVWH1xEi0q3EtX9vXg44g825sQVNrxncKp3BheWxvYWTESpcCD8QgVXoeDwoBZ7YrKQ92wnFrnvI7kvEPO4xKC++wyXZrXAbEIPrQbxZI01/V3DuSvEzakmZidsbE2D7xrH6qqBjXqtCGAgHCo3NpZ8RAOsBe0wk6jwxNvDydi7g4Vh6UKjnfQS/j11KX1TGhDmbbbUN1fEuZV8S06EXw2M/WflSOAhcLoDcXeRa3tyvuAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE3a7WfgGBcuqM/PHqZdVGn6Nv9WZ6LkS+3VEuj7FTq3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pkursawe
+
+==================================================================
