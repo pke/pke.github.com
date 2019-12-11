@@ -4,41 +4,50 @@ layout: default
 topic: business
 ---
 
+<style>
+  img.thumbnail {
+    width: 100px;
+  }
+</style>
+
 [osgi]: http://www.osgi.org
 
-- [React Apps](#react)
-  - [White label mobile apps](#wl-apps)
-  - [White label web apps](#wl-web)
-- [Document Management](#paperless)
-  - [doo Windows 8 App](#doo-app)
-  - [doo Windows Desktop Version](#doo-desktop)
+- [React Apps and Websites](#react-apps-and-websites)
+  - [White label mobile apps](#white-label-mobile-apps)
+  - [White label web apps](#white-label-web-apps)
+- [Document Management](#document-management)
+  - [doo Windows 8 Ap](#doo-windows-8-ap)
+  - [doo Windows Desktop Version](#doo-windows-desktop-version)
 - [Logistics](#logistics)
-  - [PickByVoice](#pbv)
-  - [SAP Connector](#sap)
-  - [Picking Management](#controlcenter)
-  - [CheckByVoice](#cbv)
+  - [PickByVoice](#pickbyvoice)
+  - [SAP Connector](#sap-connector)
+  - [Picking Management](#picking-management)
+  - [CheckByVoice](#checkbyvoice)
 - [Data Mining](#data-mining)
-  - [Windows integration of search tools](#qwikfind)
-  - [SAP WM connector](#sap-wm)
-- [License Management and Verification](#lic)
-  - [Server](#lic-server)
-  - [Client](#lic-client)
+  - [Windows integration of search tools](#windows-integration-of-search-tools)
+  - [SAP WM connector](#sap-wm-connector)
+- [License Management and Verification](#license-management-and-verification)
+  - [Server](#server)
+  - [Client](#client)
 
-# React Apps and Websites {#react}
+# React Apps and Websites
 
-## White label mobile apps {#wl-apps}
+Generated 100% from the same reactjs, redux, redux-saga codebase.  
+Built and deployed using CI/CD systems.
+
+## White label mobile apps
 
 [evopark](https://itunes.apple.com/de/developer/evopark/id937223595)
 
-| | | |
-|-|-|-|
-|![evopark](images/evopark.jpg)| ![AXA](images/evopark-axa.jpg) | ![SWT](images/evopark-swt.jpg) |
+| evopark | AXA | SWT | Porsche |
+|--|--|--|--|
+|[![evopark](images/evopark.jpg){:.thumbnail}](/images/evopark.jpg)|[![AXA](images/evopark-axa.jpg){:.thumbnail}](/images/evopark-axa.jpg)|[![SWT](images/evopark-swt.jpg){:.thumbnail}](/images/evopark-swt.jpg)|[![Porsche360](images/evopark-porsche360.png){:.thumbnail}](/images/evopark-porsche360.png)|
 
-## White label web apps {#wl-web}
+## White label web apps
 
 [![Porsche Parken Plus](images/evopark-porsche.png)](https://porsche.evopark.de)
 
-# Document Management {#paperless}
+# Document Management
 
 Architect and Lead Programmer of the doo Windows applications.
 
@@ -48,7 +57,7 @@ Architect and Lead Programmer of the doo Windows applications.
 [doo Windows 8 App](https://apps.microsoft.com/windows/en-us/app/doo/28631302-9666-4ee3-aaf4-e52c493370e8)
 ![doo Windows app](images/doo-app.jpg)
 
-## doo Windows 8 App {#doo-app}
+## doo Windows 8 Ap
 
 Hybrid application using HTML5/JavaScript and native C++ Windows RT components for datatbase, zipfile management, OCR
 
@@ -59,7 +68,7 @@ Hybrid application using HTML5/JavaScript and native C++ Windows RT components f
 - Low memory footprint
 - x64,x86 and ARM platforms supported
 
-## doo Windows Desktop Version {#doo-desktop}
+## doo Windows Desktop Version
 
 C++ Qt 5.2 based application with custom styled graphical user interface.
 
@@ -68,21 +77,21 @@ C++ Qt 5.2 based application with custom styled graphical user interface.
 - Usage of TeamCity continuous build server
 - Using InnoSetup for deployment
 
-# Logistics {#logistics}
+# Logistics
 
-## PickByVoice {#pbv}
+## PickByVoice
 
 Implementation of various different picking applications using [topSPEECH-Lydia&reg;](http://topsystem.de/pick_by_voice.html)
 - C++ application for WindowsCE devices
 - Custom UI
 
-## SAP Connector {#sap}
+## SAP Connector
 
 - [OSGi][osgi] server application
 - XML-Fixture support for testing without SAP backend
 - Reliable transport and session management with (database) persistence support and connection drop recovery
 
-## Picking Management {#controlcenter}
+## Picking Management
 
 Initial design and architecture as Lead Programmer of [Control Center](http://topsystem.de/pick_by_voice_control_center.html)
 
@@ -102,7 +111,7 @@ Allows to manage the work-flow of [PickByVoice](#pbv) applications and [VOXter&r
 - Various pluggable export formats
 - Customizable branding
 
-## CheckByVoice {#cbv}
+## CheckByVoice
 
 Voice driven, mobile [car inspection](http://topsystem.de/products_/_check_by_voice.html) solution.
 
@@ -118,9 +127,9 @@ Voice driven, mobile [car inspection](http://topsystem.de/products_/_check_by_vo
 - Background result uploads to backend server
 - `urlmon.dll` for HTTP(S) handling
 
-# Data Mining {#data-mining}
+# Data Mining
 
-## Windows integration of search tools {#qwikfind}
+## Windows integration of search tools
 
 Integration of search toolbar in Windows Explorer, Internet Explorer and context menus in Microsoft Office.
 
@@ -137,21 +146,21 @@ Integration of search toolbar in Windows Explorer, Internet Explorer and context
 
 [Watch it in action](http://www.screencast.com/t/q6uATL2x)
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/qh-zodp6lTM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<video width="854" height="480" src="/images/qwikfind.mp4" controls></video>
 
-## SAP WM connector {#sap-wm}
+## SAP WM connector
 
 - Java [OSGi][osgi] bundle
 - Seamless integration into non-OSGi environments
 
-# License Management and Verification {#lic}
+# License Management and Verification
 
-## Server {#lic-server}
+## Server
 
 - Ruby & Sinatra powered
 - Ad-hoc OAuth protected API
 
-## Client {#lic-client}
+## Client
 
 - C++ static lib
 - Anti-Debugging and Anti-Dump techniques
