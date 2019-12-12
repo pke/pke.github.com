@@ -1,11 +1,7 @@
-baseurl:
-pygments: true
-markdown: kramdown
 permalink: /:categories/:title
 excerpt_separator: "\n\n"
 include: [".well-known"]
 exclude: [ 'Rakefile', "node_modules" ]
-title: pke site
 encoding: utf-8
 show_drafts: true
 unpublished: true
