@@ -1,3 +1,4 @@
+host: 0.0.0.0
 permalink: /:categories/:title
 excerpt_separator: "\n\n"
 include: [".well-known"]
