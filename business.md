@@ -16,7 +16,7 @@ topic: business
   - [White label mobile apps](#white-label-mobile-apps)
   - [White label web apps](#white-label-web-apps)
 - [Document Management](#document-management)
-  - [doo Windows 8 Ap](#doo-windows-8-ap)
+  - [doo Windows 8 App](#doo-windows-8-app)
   - [doo Windows Desktop Version](#doo-windows-desktop-version)
 - [Logistics](#logistics)
   - [PickByVoice](#pickbyvoice)
@@ -57,7 +57,7 @@ Architect and Lead Programmer of the doo Windows applications.
 [doo Windows 8 App](https://apps.microsoft.com/windows/en-us/app/doo/28631302-9666-4ee3-aaf4-e52c493370e8)
 ![doo Windows app](images/doo-app.jpg)
 
-## doo Windows 8 Ap
+## doo Windows 8 App
 
 Hybrid application using HTML5/JavaScript and native C++ Windows RT components for datatbase, zipfile management, OCR
 
